@@ -1,20 +1,20 @@
 # II_pr4
 
 1) cubo como trigger y cilindro rigidbody cinemático
-![ej1_e.gif](text)
+![text](ej1_e.gif)
 
 
 2) Esferas_1 son rigidbody
-![ej2_e.gif](text)
+![text](ej2_e.gif)
 
 3 )
-![ej3_e.gif](text)
+![text](ej3_e.gif)
 
 4 )
-![ej4_e.gif](text)
+![text](ej4_e.gif)
 
 5 )
-![ej5_e.gif](text)
+![text](ej5_e.gif)
 
 6 )
-![ej6_e.gif](text)
+![text](ej6_e.gif)
